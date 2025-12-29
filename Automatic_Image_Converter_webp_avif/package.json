@@ -1,0 +1,21 @@
+{
+  "name": "Image Converter",
+  "version": "1.0.0",
+  "description": "Automatic Image Converter Webp Avif",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp"
+  },
+  "author": "Jesus Peralta",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-avif": "^1.0.1",
+    "gulp-webp": "^4.0.1"
+  },
+  "browserslist": [
+    "last 1 version",
+    "> 1%"
+  ]
+}
+
